@@ -1,0 +1,1 @@
+<td th:attr="group-id=${list.req_form_id}" th:text="${list.issuetype}">issuetype</td>
